@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Aarohisilk
     url: https://aarohisilks.com
+  - name: Airtopup
+    url: https://airtopup.com
   - name: Arkanfoods
-    url: http://raknfoods.com/
+    url: http://raknfoods.com
   - name: Enliven Designers
     url: https://enlivendesigners.com
   - name: Test Broken Site
