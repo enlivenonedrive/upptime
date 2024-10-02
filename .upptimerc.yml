@@ -17,11 +17,6 @@ sites:
     url: 81.0.218.72
     check: "tcp-ping"
     ipv6: false
-  - name: Staging CyberPanel
-    url: stagingcyberpanel.enlivendesigners.com
-    port: 8090
-    check: "tcp-ping"
-    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -35,8 +30,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+    - title: Home
+      href: https://enlivendesigners.com/
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
