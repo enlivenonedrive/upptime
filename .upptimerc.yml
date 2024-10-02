@@ -13,11 +13,15 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: Vialanka Travels
     url: https://vialankatravels.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Staging Server
+    url: 81.0.218.72
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
+  - name: Staging CyberPanel
+    url: stagingcyberpanel.enlivendesigners.com
+    port: 8090
+    check: "tcp-ping"
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
