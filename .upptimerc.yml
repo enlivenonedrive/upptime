@@ -9,6 +9,8 @@ sites:
     url: https://airtopup.com
   - name: Amazetrading
     url: https://amazetrading.ca
+  - name: Arkanfood
+    url: https://raknfoods.com
   - name: Ceylononlineshop
     url: https://ceylononlineshop.com
   - name: Cocomileceylon
@@ -47,8 +49,6 @@ sites:
     url: https://primeservicesglobal.co.uk
   - name: Primeteaceylon
     url: https://primeteaceylon.com
-  - name: Arkanfood
-    url: https://raknfoods.com
   - name: Rbpesolutions
     url: https://rbpesolutions.co.uk
   - name: Rmylogistics
