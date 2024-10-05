@@ -1,7 +1,7 @@
 url: https://evershinecoaches.co.uk
-status: up
-code: 200
-responseTime: 10231
-lastUpdated: 2024-10-05T14:51:48.945Z
+status: down
+code: 500
+responseTime: 561
+lastUpdated: 2024-10-05T15:28:47.458Z
 startTime: 2024-10-02T16:21:02.934Z
 generator: Upptime <https://github.com/upptime/upptime>
