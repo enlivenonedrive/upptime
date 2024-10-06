@@ -83,8 +83,8 @@ sites:
     url: 194.163.168.18
     check: "tcp-ping"
     ipv6: false
-  - name: Production Server 2
-    url: 194.163.166.206
+  - name: Production Server 3
+    url:  82.180.145.176
     check: "tcp-ping"
     ipv6: false
   
