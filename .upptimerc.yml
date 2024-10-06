@@ -71,8 +71,6 @@ sites:
     url: https://unitedxchange.co.uk
   - name: Unreachedbrands
     url: https://unreachedbrands.com
-  - name: Vialanka Travels
-    url: https://vialankatravels.com
   - name: Staging Server
     url: 81.0.218.72
     check: "tcp-ping"
