@@ -36,7 +36,7 @@ sites:
   - name: Gsmwholesaler
     url: https://gsmwholesaler.com
   - name: Jesuranwellness
-    url: http://jesuranwellness.com
+    url: https://jesuranwellness.com.au/
   - name: Notionblend
     url: https://notionblend.com
   - name: Owkuniversity
@@ -57,8 +57,6 @@ sites:
     url: http://symbiosophy.org
   - name: Symbioun
     url: https://symbioun.lk
-  - name: Symbiouncommunity
-    url: https://symbiouncommunity.org
   - name: Tactsolutions
     url: https://tactsolutionslk.com
   - name: Technifyit
