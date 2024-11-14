@@ -1,7 +1,7 @@
 url: https://contractpoints.com
-status: up
-code: 200
-responseTime: 1867
-lastUpdated: 2024-11-13T23:16:40.224Z
+status: down
+code: 500
+responseTime: 550
+lastUpdated: 2024-11-14T13:36:48.895Z
 startTime: 2024-10-02T16:20:49.163Z
 generator: Upptime <https://github.com/upptime/upptime>
