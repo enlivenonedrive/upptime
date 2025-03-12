@@ -1,7 +1,7 @@
 url: http://fnilogistics.com
-status: up
-code: 200
-responseTime: 1832
-lastUpdated: 2025-03-12T19:00:10.766Z
+status: down
+code: 403
+responseTime: 261
+lastUpdated: 2025-03-12T19:19:46.653Z
 startTime: 2024-10-02T16:21:04.565Z
 generator: Upptime <https://github.com/upptime/upptime>
