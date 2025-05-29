@@ -50,7 +50,7 @@
     "timeMonth": 0,
     "timeYear": 3021,
     "dailyMinutesDown": {
-      "2025-05-29": 1191,
+      "2025-05-29": 1204,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -411,7 +411,7 @@
     "timeMonth": 125,
     "timeYear": 2682,
     "dailyMinutesDown": {
-      "2025-05-29": 1191,
+      "2025-05-29": 1204,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -480,19 +480,19 @@
     "url": "https://cocomillceylon.com",
     "icon": "https://icons.duckduckgo.com/ip3/cocomillceylon.com.ico",
     "slug": "cocomileceylon",
-    "status": "up",
-    "uptime": "96.66%",
-    "uptimeDay": "73.05%",
-    "uptimeWeek": "94.35%",
-    "uptimeMonth": "91.29%",
-    "uptimeYear": "96.66%",
+    "status": "down",
+    "uptime": "96.67%",
+    "uptimeDay": "73.63%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "91.28%",
+    "uptimeYear": "96.67%",
     "time": 627,
     "timeDay": 23430,
     "timeWeek": 18973,
     "timeMonth": 8234,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-05-29": 257,
+      "2025-05-29": 261,
       "2025-05-28": 152,
       "2025-05-25": 161,
       "2025-05-22": 501,
@@ -516,7 +516,7 @@
       "2025-04-01": 374,
       "2025-03-31": 531,
       "2025-03-30": 616,
-      "2025-03-29": 171
+      "2025-03-29": 153
     }
   },
   {
@@ -937,10 +937,10 @@
     "url": "http://fnilogistics.com",
     "icon": "https://icons.duckduckgo.com/ip3/fnilogistics.com.ico",
     "slug": "fnilogistics",
-    "status": "up",
+    "status": "down",
     "uptime": "97.03%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "94.58%",
     "uptimeYear": "97.03%",
     "time": 1063,
@@ -949,6 +949,7 @@
     "timeMonth": 2060,
     "timeYear": 1063,
     "dailyMinutesDown": {
+      "2025-05-29": 3,
       "2025-05-28": 21,
       "2025-05-01": 837,
       "2025-04-30": 1440,
@@ -969,7 +970,7 @@
       "2025-04-01": 388,
       "2025-03-31": 771,
       "2025-03-30": 557,
-      "2025-03-29": 477
+      "2025-03-29": 452
     }
   },
   {
@@ -1961,7 +1962,7 @@
     "timeMonth": 0,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-05-29": 1194,
+      "2025-05-29": 1207,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
