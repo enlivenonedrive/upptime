@@ -111,10 +111,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/airtopup.com.ico",
     "slug": "airtopup",
     "status": "up",
-    "uptime": "18.33%",
+    "uptime": "18.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.44%",
+    "uptimeMonth": "82.52%",
     "uptimeYear": "16.77%",
     "time": 2585,
     "timeDay": 445,
@@ -443,7 +443,7 @@
     "uptime": "81.57%",
     "uptimeDay": "99.19%",
     "uptimeWeek": "99.88%",
-    "uptimeMonth": "97.91%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "81.21%",
     "time": 1805,
     "timeDay": 535,
@@ -732,7 +732,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceylononlineshop.com.ico",
     "slug": "ceylononlineshop",
     "status": "up",
-    "uptime": "66.07%",
+    "uptime": "66.08%",
     "uptimeDay": "99.18%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.85%",
@@ -896,19 +896,19 @@
     "url": "https://cocomillceylon.com",
     "icon": "https://icons.duckduckgo.com/ip3/cocomillceylon.com.ico",
     "slug": "cocomileceylon",
-    "status": "down",
+    "status": "up",
     "uptime": "81.83%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "81.48%",
-    "time": 741,
-    "timeDay": 984,
-    "timeWeek": 1215,
-    "timeMonth": 1406,
-    "timeYear": 729,
+    "time": 745,
+    "timeDay": 2155,
+    "timeWeek": 1590,
+    "timeMonth": 1524,
+    "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
+      "2025-10-09": 48,
       "2025-10-01": 29,
       "2025-08-23": 22,
       "2025-08-22": 17,
@@ -1003,7 +1003,7 @@
       "2025-04-02": 177,
       "2025-04-01": 374,
       "2025-03-31": 531,
-      "2025-03-30": 173
+      "2025-03-30": 127
     }
   },
   {
@@ -1120,9 +1120,9 @@
     "slug": "dipuravana",
     "status": "up",
     "uptime": "81.01%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "80.65%",
     "time": 899,
     "timeDay": 682,
@@ -1130,7 +1130,6 @@
     "timeMonth": 736,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-08-23": 22,
       "2025-08-22": 17,
@@ -1219,7 +1218,7 @@
       "2025-03-31": 755,
       "2025-03-30": 517,
       "2025-03-29": 461,
-      "2025-03-28": 73
+      "2025-03-28": 90
     }
   },
   {
@@ -1228,18 +1227,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dipuravanarentals.com.ico",
     "slug": "dipuravanarentals",
     "status": "up",
-    "uptime": "80.69%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "80.32%",
+    "uptime": "80.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "80.31%",
     "time": 1404,
     "timeDay": 733,
     "timeWeek": 755,
     "timeMonth": 843,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-08-23": 22,
       "2025-08-22": 17,
@@ -1329,7 +1327,7 @@
       "2025-03-31": 800,
       "2025-03-30": 809,
       "2025-03-29": 650,
-      "2025-03-28": 13
+      "2025-03-28": 93
     }
   },
   {
@@ -1339,9 +1337,9 @@
     "slug": "dynamicspize",
     "status": "up",
     "uptime": "77.11%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "76.67%",
     "time": 899,
     "timeDay": 672,
@@ -1349,7 +1347,6 @@
     "timeMonth": 740,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-08-29": 959,
       "2025-08-28": 1440,
@@ -1449,7 +1446,7 @@
       "2025-04-01": 435,
       "2025-03-31": 724,
       "2025-03-30": 711,
-      "2025-03-29": 526
+      "2025-03-29": 548
     }
   },
   {
@@ -1459,9 +1456,9 @@
     "slug": "econtips",
     "status": "up",
     "uptime": "77.23%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "76.79%",
     "time": 1366,
     "timeDay": 787,
@@ -1469,7 +1466,6 @@
     "timeMonth": 955,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-08-27": 1035,
       "2025-08-26": 1440,
@@ -1571,7 +1567,7 @@
       "2025-03-31": 400,
       "2025-03-30": 825,
       "2025-03-29": 661,
-      "2025-03-28": 108
+      "2025-03-28": 137
     }
   },
   {
@@ -1678,10 +1674,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/enlivendesigners.com.ico",
     "slug": "enliven-designers",
     "status": "up",
-    "uptime": "77.23%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptime": "77.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "77.15%",
     "time": 1593,
     "timeDay": 728,
@@ -1689,7 +1685,6 @@
     "timeMonth": 1328,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-09-08": 584,
       "2025-09-07": 1440,
@@ -1807,9 +1802,9 @@
     "slug": "evershinecoaches",
     "status": "up",
     "uptime": "77.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "77.54%",
     "time": 1357,
     "timeDay": 710,
@@ -1817,7 +1812,6 @@
     "timeMonth": 755,
     "timeYear": 1337,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-08-27": 1052,
       "2025-08-26": 1440,
@@ -1913,7 +1907,7 @@
       "2025-04-01": 474,
       "2025-03-31": 665,
       "2025-03-30": 733,
-      "2025-03-29": 443
+      "2025-03-29": 475
     }
   },
   {
@@ -1922,18 +1916,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fnilogistics.com.ico",
     "slug": "fnilogistics",
     "status": "down",
-    "uptime": "75.77%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "75.31%",
+    "uptime": "75.76%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "75.30%",
     "time": 1093,
     "timeDay": 1611,
     "timeWeek": 2216,
     "timeMonth": 2546,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2025-10-09": 15,
+      "2025-10-09": 39,
       "2025-10-08": 38,
       "2025-10-07": 53,
       "2025-10-01": 29,
@@ -2043,7 +2037,7 @@
       "2025-04-02": 118,
       "2025-04-01": 388,
       "2025-03-31": 771,
-      "2025-03-30": 381
+      "2025-03-30": 416
     }
   },
   {
@@ -2052,18 +2046,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gsmwholesaler.com.ico",
     "slug": "gsmwholesaler",
     "status": "up",
-    "uptime": "77.43%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "77.00%",
+    "uptime": "77.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "76.99%",
     "time": 1155,
     "timeDay": 776,
     "timeWeek": 854,
     "timeMonth": 931,
     "timeYear": 1160,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-09-04": 633,
       "2025-09-03": 1440,
@@ -2157,7 +2150,7 @@
       "2025-04-06": 445,
       "2025-04-05": 428,
       "2025-04-04": 462,
-      "2025-04-03": 505
+      "2025-04-03": 586
     }
   },
   {
@@ -2167,9 +2160,9 @@
     "slug": "jesuranwellness",
     "status": "up",
     "uptime": "75.89%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "75.43%",
     "time": 298,
     "timeDay": 776,
@@ -2177,7 +2170,6 @@
     "timeMonth": 984,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-09-04": 633,
       "2025-09-03": 1440,
@@ -2284,7 +2276,7 @@
       "2025-04-01": 409,
       "2025-03-31": 865,
       "2025-03-30": 777,
-      "2025-03-29": 252
+      "2025-03-29": 271
     }
   },
   {
@@ -2350,7 +2342,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/owkuniversity.online.ico",
     "slug": "owkuniversity",
     "status": "up",
-    "uptime": "83.28%",
+    "uptime": "83.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.85%",
@@ -2448,18 +2440,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/primeservicesglobal.co.uk.ico",
     "slug": "primeserviceglobal",
     "status": "up",
-    "uptime": "74.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "74.00%",
+    "uptime": "73.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "73.99%",
     "time": 720,
     "timeDay": 693,
     "timeWeek": 695,
     "timeMonth": 771,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2025-10-09": 12,
       "2025-10-01": 29,
       "2025-09-04": 676,
       "2025-09-03": 1440,
@@ -2563,7 +2554,7 @@
       "2025-03-31": 601,
       "2025-03-30": 640,
       "2025-03-29": 781,
-      "2025-03-28": 134
+      "2025-03-28": 165
     }
   },
   {
@@ -2603,7 +2594,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rbpesolutions.co.uk.ico",
     "slug": "rbpesolutions",
     "status": "up",
-    "uptime": "76.37%",
+    "uptime": "76.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -3037,7 +3028,7 @@
     "timeMonth": 321,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-10-09": 928,
+      "2025-10-09": 964,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -3408,7 +3399,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tactsolutionslk.com.ico",
     "slug": "tactsolutionslk",
     "status": "up",
-    "uptime": "79.56%",
+    "uptime": "79.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -3681,7 +3672,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ukckabl.institute.ico",
     "slug": "ukckabl",
     "status": "up",
-    "uptime": "87.82%",
+    "uptime": "87.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.85%",
@@ -4026,7 +4017,7 @@
     "timeMonth": 0,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2025-10-09": 930,
+      "2025-10-09": 965,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
