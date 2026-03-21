@@ -1,7 +1,7 @@
 url: https://amazetrading.ca
-status: up
-code: 200
+status: down
+code: 415
 responseTime: 511
-lastUpdated: 2026-03-20T23:28:54.954Z
+lastUpdated: 2026-03-21T14:16:33.969Z
 startTime: 2024-10-02T16:20:45.089Z
 generator: Upptime <https://github.com/upptime/upptime>
