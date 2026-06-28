@@ -1,7 +1,7 @@
 url: https://seflk.org
-status: up
-code: 200
-responseTime: 1034
-lastUpdated: 2026-06-27T22:18:34.175Z
+status: down
+code: 415
+responseTime: 400
+lastUpdated: 2026-06-28T00:08:04.266Z
 startTime: 2024-10-02T16:52:34.432Z
 generator: Upptime <https://github.com/upptime/upptime>
