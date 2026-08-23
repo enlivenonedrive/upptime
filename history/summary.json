@@ -938,15 +938,15 @@
     "url": "https://ecuniversity.online",
     "icon": "https://icons.duckduckgo.com/ip3/ecuniversity.online.ico",
     "slug": "ecuniversity",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "93.71%",
-    "uptimeWeek": "91.26%",
-    "uptimeMonth": "89.79%",
-    "uptimeYear": "98.59%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "91.24%",
+    "uptimeMonth": "89.78%",
+    "uptimeYear": "98.58%",
     "time": 262,
-    "timeDay": 302,
-    "timeWeek": 423,
+    "timeDay": 303,
+    "timeWeek": 419,
     "timeMonth": 330,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -994,7 +994,7 @@
       "2026-08-20": 205,
       "2026-08-21": 167,
       "2026-08-22": 241,
-      "2026-08-23": 66
+      "2026-08-23": 69
     }
   },
   {
@@ -1434,7 +1434,7 @@
       "2026-04-22": 1440,
       "2026-04-21": 1178,
       "2026-05-01": 58,
-      "2026-08-23": 1201,
+      "2026-08-23": 1209,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1655,16 +1655,16 @@
     "url": "https://owkuniversity.online",
     "icon": "https://icons.duckduckgo.com/ip3/owkuniversity.online.ico",
     "slug": "owkuniversity",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "95.14%",
-    "uptimeWeek": "92.42%",
-    "uptimeMonth": "90.58%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "92.38%",
+    "uptimeMonth": "90.57%",
     "uptimeYear": "98.66%",
     "time": 257,
-    "timeDay": 251,
-    "timeWeek": 529,
-    "timeMonth": 395,
+    "timeDay": 259,
+    "timeWeek": 520,
+    "timeMonth": 394,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2026-06-29": 432,
@@ -1711,7 +1711,7 @@
       "2026-08-20": 182,
       "2026-08-21": 148,
       "2026-08-22": 217,
-      "2026-08-23": 51
+      "2026-08-23": 55
     }
   },
   {
@@ -2425,15 +2425,15 @@
     "url": "https://ukallbl.institute",
     "icon": "https://icons.duckduckgo.com/ip3/ukallbl.institute.ico",
     "slug": "ukallbl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "95.18%",
-    "uptimeMonth": "91.93%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "91.92%",
     "uptimeYear": "98.35%",
     "time": 450,
-    "timeDay": 440,
-    "timeWeek": 658,
+    "timeDay": 470,
+    "timeWeek": 656,
     "timeMonth": 568,
     "timeYear": 436,
     "dailyMinutesDown": {
@@ -2488,7 +2488,7 @@
       "2026-08-20": 144,
       "2026-08-21": 101,
       "2026-08-22": 153,
-      "2026-08-23": 10
+      "2026-08-23": 13
     }
   },
   {
@@ -2568,16 +2568,16 @@
     "url": "https://ukckabl.institute",
     "icon": "https://icons.duckduckgo.com/ip3/ukckabl.institute.ico",
     "slug": "ukckabl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "92.58%",
     "uptimeYear": "98.20%",
     "time": 744,
-    "timeDay": 1305,
-    "timeWeek": 1341,
-    "timeMonth": 1011,
+    "timeDay": 1330,
+    "timeWeek": 1344,
+    "timeMonth": 1015,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2026-06-16": 506,
@@ -2633,7 +2633,7 @@
       "2026-08-20": 111,
       "2026-08-21": 91,
       "2026-08-22": 133,
-      "2026-08-23": 5
+      "2026-08-23": 8
     }
   },
   {
@@ -2693,7 +2693,7 @@
       "2025-10-26": 1440,
       "2025-10-25": 1100,
       "2025-11-21": 620,
-      "2026-08-23": 1202,
+      "2026-08-23": 1210,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -3151,7 +3151,7 @@
       "2026-03-22": 60,
       "2026-03-25": 127,
       "2026-03-24": 4,
-      "2026-08-23": 1202,
+      "2026-08-23": 1210,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -3349,7 +3349,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 1202,
+      "2026-08-23": 1210,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
